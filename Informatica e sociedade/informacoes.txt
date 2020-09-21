@@ -1,0 +1,186 @@
+    1° Slide: Questão de pesquisa
+Desigualdade entre homens e mulheres:
+Os dados apontam que a desigualdade entre homens e mulheres no mundo não diminuiu.
+As mulheres continuam tendo menos oportunidades na hora de disputar uma vaga de emprego e o salário permanece menor que dos homens.
+As diferenças são discrepantes e é encontrada em países subdesenvolvidos, emergentes e países considerados desenvolvidos.
+
+2° Slide
+
+De acordo com a OIT (Organização Internacional do Trabalho), as chances de uma mulher conseguir emprego é 26% inferior aos dos homens. 
+Mais de 41% das mulheres com curso superior estão fora do mercado de trabalho, enquanto isso, apenas 17,2% dos profissionais do sexo masculino com graduação estão sem emprego.
+Se as trabalhadoras sem filhos sentem as dificuldades na pele, as que têm crianças são as mais atingidas pela desigualdade no mundo corporativo. As chances de elas serem promovidas para um cargo de gerência são pequenas, apenas 25%. Já os homens com filhos têm 31% de chances de assumirem a gestão de uma empresa.
+Sem falar que eles recebem salário 20% a mais que elas, mesmo quando desempenham funções iguais.
+
+3° Slide:Hipótese
+
+Nossa hipótese de trabalho será a diferença salarial entre homens e mulheres, visto que pesquisas apontam que após 7 anos em queda a diferença salarial entre homens e mulheres aumentam.
+
+Historicamente, no Brasil, homens ganham mais que mulheres. Após sete anos de quedas consecutivas, em 2019, houve um aumento da diferença dos salários de mulheres e homens de 9,2% em relação a 2018.
+
+4°slide
+Um caso sobre a diferença salarial:
+Natália, 40 anos e Felipe, 42 anos, são professores, têm formação semelhante e exercem funções semelhantes, mas ao longo de 20 anos de carreira, Natália sempre ganhou menos que o marido. O caso mais marcante foi há dois anos, quando ela fez uma entrevista de emprego para uma escola particular, em São Carlos (SP), e recebeu a proposta salarial de R$ 800 por mês para lecionar seis aulas de 40 minutos cada, por manhã. “Na semana seguinte, a escola conversou com o meu marido e ofereceu R$ 1,7 mil pelo mesmo trabalho”, dizNatália.
+
+5° Slide
+Em 2011, homens com ensino superior ganhavam, em média, R$ 3.058, enquanto as mulheres com o mesmo nível de formação ganhavam, em média, R$ 1.865, o que representa uma diferença de salário de 63,98%.
+
+Em 2012, essa diferença começou a cair, passando para 61,78%. Em 2018, chegou a ser 44,7%, com homens ganhando, em média, R$ 3.752 e, mulheres, R$ 2.593. Em 2019, a diferença aumentou e passou a ser de 47,24%, com homens ganhando em média R$ 3.946 e, mulheres, R$ 2.680.
+
+6° Slide:
+Abaixo as médias salariais de homens e mulheres nas dez carreiras com maior geração de postos de trabalho:  
+
+Analista de negócios: homens ganham R$ 5.334 e mulheres, R$ 4.303
+Analista de desenvolvimento de sistemas: homens ganham R$ 5.779 e mulheres, R$ 5.166
+Analista de pesquisa de mercado: homens ganham R$ 4.191 e mulheres, R$ 3.624
+Biomedicina: homens ganham R$ 2.761 e mulheres, R$ 2.505
+Enfermagem: homens ganham R$ 3.417 e mulheres, R$ 3.288
+Preparador físico: homens ganham R$ 1.426 e mulheres, R$ 1.326
+Nutricionista: homens ganham R$ 2.781 e mulheres, R$ 2.714
+Farmacêutico: homens ganham R$ 3.209 e mulheres, R$ 3.221
+Fisioterapeuta geral: homens ganham R$ 2.400 e mulheres, R$ 2.422
+Avaliador físico: homens ganham R$ 2.107 e mulheres, R$ 2.303
+
+
+:Método de Pesquisa
+
+Referências:
+https://www.solidariedade.org.br/noticias/diferenca-entre-mulheres-e-homens-no-mercado-de-trabalho-ainda-e-grande/#:~:text=Os%20dados%20apontam%20que%20a,em%20pa%C3%ADses%20subdesenvolvidos%20ou%20emergentes
+
+https://apasshow.com.br/blog/index.php/2016/12/09/pesquisa-revela-o-tratamento-diferenciado-homens-e-mulheres-no-mercado-de-trabalho/
+
+https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2020-03/apos-7-anos-em-queda-diferenca-salarial-de-homens-e-mulheres#:~:text=Historicamente%2C%20no%20Brasil%2C%20homens%20ganham,2%25%20em%20rela%C3%A7%C3%A3o%20a%202018.&text=Em%202019%2C%20a%20diferen%C3%A7a%20aumentou,%2C%20mulheres%2C%20R%24%202.680
+
+http://www.adunicentro.org.br/noticias/ler/1057/empresarios-tendem-a-discriminar-salarialmente-as-mulheres-no-brasil-elas-recebem-em-media-30-menos-que-os-homens-para-as-mesmas-funcoes-ibge-mostra-que-quanto-mais-elas-estudam-menos-ganham-quando-comparadas-aos-homens
+Meu textinho:
+O objetivo é mostrar a desigualdade salarial entre homens e mulheres, visto que pesquisas apontam que após 7 anos em queda a diferença salarial entre homens e mulheres aumenta novamente. De 2018 para 2019 houve um aumento da diferença em 9,2%.
+Hipótese:	Homens ganham mais que mulheres?
+Método para coleta de dados:Tentar usar api do IBGE
+
+
+
+TABELAS
+
+Por Pesquisa e Estudo
+
+Link : Mulheres  : Estatísticas de Gênero - Indicadores sociais das mulheres no Brasil
+Tabela 1(Estruturas econômicas) - Mostrar que muitas mulheres fazem jornadas duplas
+Tabela 2 (Estruturas econômicas) 
+Tabela 13 (Estruturas econômicas)
+Tabela 20 (Educação)
+Tabela 24a (Educação)
+Tabela 24b (Educação)
+Tabela 31 (Educação) - Mostrar o nível de escolaridade
+Tabela 45 (Vida Pública)
+
+link: Raças : Desigualdades Sociais por Cor ou Raça no Brasil
+Tabela 2.5 (Trabalho)
+Tabela 2.7 (Trabalho)
+Tabela 3.4 (Renda e Moradia)
+Tabela 6.6 (Representação política)
+
+Pesquisa mensal de empregos: Pesquisa Mensal de Emprego - PME      https://www.ibge.gov.br/estatisticas/sociais/trabalho/9180-pesquisa-mensal-de-emprego.html?=&t=series-historicas  Gráfico: taxa de  desocupação das pessoas de 10 anos ou mais de idade por sexo fevereiro 2016
+
+
+
+Selecionando os filtros é montado uma tabela:
+Pesquisa Nacional por Amostra de Domicílios Contínua - PNAD Contínua 
+
+Tabela 5429: Rendimento médio nominal, habitualmente recebido por mês e efetivamente recebido no mês de referência, do trabalho principal e de todos os trabalhos, por sexo 
+
+https://sidra.ibge.gov.br/tabela/5436#resultado 
+Tabela 6371: Média de horas habitualmente trabalhadas por semana e efetivamente trabalhadas na semana de referência, no trabalho principal e em todos os trabalhos, das pessoas de 14 anos ou mais de idade, por sexo 
+
+Sistema IBGE de Recuperação Automática 
+1° Slide: Questão de pesquisa
+Desigualdade entre homens e mulheres:
+Os dados apontam que a desigualdade entre homens e mulheres no mundo não diminuiu.
+As mulheres continuam tendo menos oportunidades na hora de disputar uma vaga de emprego e o salário permanece menor que dos homens.
+As diferenças são discrepantes e é encontrada em países subdesenvolvidos, emergentes e países considerados desenvolvidos.
+
+2° Slide
+
+De acordo com a OIT (Organização Internacional do Trabalho), as chances de uma mulher conseguir emprego é 26% inferior aos dos homens. 
+Mais de 41% das mulheres com curso superior estão fora do mercado de trabalho, enquanto isso, apenas 17,2% dos profissionais do sexo masculino com graduação estão sem emprego.
+Se as trabalhadoras sem filhos sentem as dificuldades na pele, as que têm crianças são as mais atingidas pela desigualdade no mundo corporativo. As chances de elas serem promovidas para um cargo de gerência são pequenas, apenas 25%. Já os homens com filhos têm 31% de chances de assumirem a gestão de uma empresa.
+Sem falar que eles recebem salário 20% a mais que elas, mesmo quando desempenham funções iguais.
+
+3° Slide:Hipótese
+
+Nossa hipótese de trabalho será a diferença salarial entre homens e mulheres, visto que pesquisas apontam que após 7 anos em queda a diferença salarial entre homens e mulheres aumentam.
+
+Historicamente, no Brasil, homens ganham mais que mulheres. Após sete anos de quedas consecutivas, em 2019, houve um aumento da diferença dos salários de mulheres e homens de 9,2% em relação a 2018.
+
+4°slide
+Um caso sobre a diferença salarial:
+Natália, 40 anos e Felipe, 42 anos, são professores, têm formação semelhante e exercem funções semelhantes, mas ao longo de 20 anos de carreira, Natália sempre ganhou menos que o marido. O caso mais marcante foi há dois anos, quando ela fez uma entrevista de emprego para uma escola particular, em São Carlos (SP), e recebeu a proposta salarial de R$ 800 por mês para lecionar seis aulas de 40 minutos cada, por manhã. “Na semana seguinte, a escola conversou com o meu marido e ofereceu R$ 1,7 mil pelo mesmo trabalho”, dizNatália.
+
+5° Slide
+Em 2011, homens com ensino superior ganhavam, em média, R$ 3.058, enquanto as mulheres com o mesmo nível de formação ganhavam, em média, R$ 1.865, o que representa uma diferença de salário de 63,98%.
+
+Em 2012, essa diferença começou a cair, passando para 61,78%. Em 2018, chegou a ser 44,7%, com homens ganhando, em média, R$ 3.752 e, mulheres, R$ 2.593. Em 2019, a diferença aumentou e passou a ser de 47,24%, com homens ganhando em média R$ 3.946 e, mulheres, R$ 2.680.
+
+6° Slide:
+Abaixo as médias salariais de homens e mulheres nas dez carreiras com maior geração de postos de trabalho:  
+
+Analista de negócios: homens ganham R$ 5.334 e mulheres, R$ 4.303
+Analista de desenvolvimento de sistemas: homens ganham R$ 5.779 e mulheres, R$ 5.166
+Analista de pesquisa de mercado: homens ganham R$ 4.191 e mulheres, R$ 3.624
+Biomedicina: homens ganham R$ 2.761 e mulheres, R$ 2.505
+Enfermagem: homens ganham R$ 3.417 e mulheres, R$ 3.288
+Preparador físico: homens ganham R$ 1.426 e mulheres, R$ 1.326
+Nutricionista: homens ganham R$ 2.781 e mulheres, R$ 2.714
+Farmacêutico: homens ganham R$ 3.209 e mulheres, R$ 3.221
+Fisioterapeuta geral: homens ganham R$ 2.400 e mulheres, R$ 2.422
+Avaliador físico: homens ganham R$ 2.107 e mulheres, R$ 2.303
+
+
+:Método de Pesquisa
+
+Referências:
+https://www.solidariedade.org.br/noticias/diferenca-entre-mulheres-e-homens-no-mercado-de-trabalho-ainda-e-grande/#:~:text=Os%20dados%20apontam%20que%20a,em%20pa%C3%ADses%20subdesenvolvidos%20ou%20emergentes
+
+https://apasshow.com.br/blog/index.php/2016/12/09/pesquisa-revela-o-tratamento-diferenciado-homens-e-mulheres-no-mercado-de-trabalho/
+
+https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2020-03/apos-7-anos-em-queda-diferenca-salarial-de-homens-e-mulheres#:~:text=Historicamente%2C%20no%20Brasil%2C%20homens%20ganham,2%25%20em%20rela%C3%A7%C3%A3o%20a%202018.&text=Em%202019%2C%20a%20diferen%C3%A7a%20aumentou,%2C%20mulheres%2C%20R%24%202.680
+
+http://www.adunicentro.org.br/noticias/ler/1057/empresarios-tendem-a-discriminar-salarialmente-as-mulheres-no-brasil-elas-recebem-em-media-30-menos-que-os-homens-para-as-mesmas-funcoes-ibge-mostra-que-quanto-mais-elas-estudam-menos-ganham-quando-comparadas-aos-homens
+Meu textinho:
+O objetivo é mostrar a desigualdade salarial entre homens e mulheres, visto que pesquisas apontam que após 7 anos em queda a diferença salarial entre homens e mulheres aumenta novamente. De 2018 para 2019 houve um aumento da diferença em 9,2%.
+Hipótese:	Homens ganham mais que mulheres?
+Método para coleta de dados:Tentar usar api do IBGE
+
+
+
+TABELAS
+
+Por Pesquisa e Estudo
+
+Link : Mulheres  : Estatísticas de Gênero - Indicadores sociais das mulheres no Brasil
+Tabela 1(Estruturas econômicas) - Mostrar que muitas mulheres fazem jornadas duplas
+Tabela 2 (Estruturas econômicas) 
+Tabela 13 (Estruturas econômicas)
+Tabela 20 (Educação)
+Tabela 24a (Educação)
+Tabela 24b (Educação)
+Tabela 31 (Educação) - Mostrar o nível de escolaridade
+Tabela 45 (Vida Pública)
+
+link: Raças : Desigualdades Sociais por Cor ou Raça no Brasil
+Tabela 2.5 (Trabalho)
+Tabela 2.7 (Trabalho)
+Tabela 3.4 (Renda e Moradia)
+Tabela 6.6 (Representação política)
+
+Pesquisa mensal de empregos: Pesquisa Mensal de Emprego - PME      https://www.ibge.gov.br/estatisticas/sociais/trabalho/9180-pesquisa-mensal-de-emprego.html?=&t=series-historicas  Gráfico: taxa de  desocupação das pessoas de 10 anos ou mais de idade por sexo fevereiro 2016
+
+
+
+Selecionando os filtros é montado uma tabela:
+Pesquisa Nacional por Amostra de Domicílios Contínua - PNAD Contínua 
+
+Tabela 5429: Rendimento médio nominal, habitualmente recebido por mês e efetivamente recebido no mês de referência, do trabalho principal e de todos os trabalhos, por sexo 
+
+https://sidra.ibge.gov.br/tabela/5436#resultado 
+Tabela 6371: Média de horas habitualmente trabalhadas por semana e efetivamente trabalhadas na semana de referência, no trabalho principal e em todos os trabalhos, das pessoas de 14 anos ou mais de idade, por sexo 
+
+Sistema IBGE de Recuperação Automática 
